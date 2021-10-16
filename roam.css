@@ -94,6 +94,10 @@ h3 {
     color: black;
 }
 
+.rm-heading-level-3, .rm-heading-level-3>.rm-block__self {
+  font-weight: bold;
+}
+
 .rm-page-ref-link-color {
     font-weight: 600;
 }
