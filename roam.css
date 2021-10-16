@@ -87,6 +87,7 @@ h3 {
 
 .rm-level3 {
     font-size: 1.3em;
+    font-weight: bold;
 }
 
 .rm-level3 > div > span {
