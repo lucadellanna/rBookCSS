@@ -94,12 +94,9 @@ h3 {
     color: black;
 }
 
-.rm-heading-level-3,
-.rm-heading-level-3 > .rm-block__self,
-.rm-heading-level-3 > .rm-block-main div,
-.rm-heading-level-3 > .rm-block-main textarea {
-  font-weight: 900!important;
+.rm-heading-level-3 > .rm-block__self > div {
   color: black!important;
+  font-weight:bold!important
 }
 
 .rm-page-ref-link-color {
